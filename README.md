@@ -1,6 +1,10 @@
+[![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/mionk726-beep/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/mionk726-beep/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 # Sum up 19 November's world news in one image — make.fun entry
 
-Bounty on make.fun: **"Sum up 19 November's world news in one image"**
+Bounty on make.fun: **["Sum up 19 November's world news in one image"](https://make.fun/bounty/news-image-20261119)**
 - Prize pool **$250 in USDC (Solana)**, split across **50 places** — 1st $50, 2nd $30, 3rd $15.
 - Closes **Saturday 21 November 2026, 07:00 WIB**.
 
